@@ -1,0 +1,4 @@
+Folder database db_resto dicopy ke C:\xampp\mysql\data
+setelah itu buka phpmyadmin dibrowser lalu tekan New kemudian cari dan klik db_resto
+
+jika database telah terimport maka website dapat digunakan
